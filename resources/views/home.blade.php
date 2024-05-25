@@ -1,4 +1,4 @@
 @extends('layouts.master')
 @section('content')
-    <h2>Añadir pelicula</h2>
+    <h1>Bienvenidos a VideoClub!</h1>
 @stop
